@@ -1,0 +1,17 @@
+commit 8827dd4afd9c5c94a6af6fd437617a40c6748c9d
+Author: sleppala <leppalasimo@gmail.com>
+Date:   Thu Apr 23 19:25:12 2020 +0300
+
+    added gitignore
+
+commit 07763f2141ec344ae57c06c19a2b92a841002c72
+Author: sleppala <leppalasimo@gmail.com>
+Date:   Thu Apr 23 19:10:13 2020 +0300
+
+    noni
+
+commit 1a695959e1314115e7c76a13e97c62b68fe9c858
+Author: sleppala <leppalasimo@gmail.com>
+Date:   Thu Apr 23 19:05:22 2020 +0300
+
+    added readme.txt to git
