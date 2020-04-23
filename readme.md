@@ -18,5 +18,3 @@ I live in Finland. There are a shitload of lakes here. Dope.
 ### Contact
 
 Find my Linkedin here --> https://www.linkedin.com/in/simoleppala/
-
-nano README.md
